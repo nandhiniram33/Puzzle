@@ -86,10 +86,3 @@ Contributions are welcome!
 Feel free to fork this repository and improve the project.
 
 
-
-## 📌 Note
-
-This project is open for learning and demonstration purposes.
-You are free to use and modify it.
-
-
